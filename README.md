@@ -6,4 +6,4 @@
 - **Coding My Own Life**
 
 - Reach Me:
-  **[Telegram](https://t.me/Ashim_Uchiha) , [Instagram](https://instagram.com/ashim.uchiha)**
+  **[Telegram](https://t.me/Ashim_Uchiha)**
