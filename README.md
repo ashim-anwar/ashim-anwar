@@ -3,7 +3,8 @@
 
 - I’m Currently a 19 y.o Student Learning Android Development
 - Android Open Source Project (AOSP) is something I'm interested in.
-- Device Maintainer Of Realme-X [RMX1901] (SDM710)
+- Former Device Maintainer Of Realme-X [RMX1901] (SDM710)
+- Current Device Maintainer Of Nothing Phone 2 [pong] (SM8475)
 - Bio-Technology is an area I'm focusing on right now.
 - **Coding My Own Life**
 
