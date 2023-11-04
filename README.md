@@ -1,7 +1,7 @@
 <h1> Hii Fellow < Developers/ >! </h1>
 <p align='center'> </p>
 
-- I’m Currently a 19 y.o Student Learning Android Development
+- I’m Currently a 20 y.o Student Learning Android Development
 - Android Open Source Project (AOSP) is something I'm interested in.
 - Former Device Maintainer Of Realme-X [RMX1901] (SDM710)
 - Current Device Maintainer Of Nothing Phone 2 [pong] (SM8475)
